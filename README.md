@@ -17,7 +17,9 @@ Ingénieure en systèmes d'information, diplômée d'un double diplôme ENSEA–
 
 ### 🎓 Education
 
-- **Diplôme d'ingénieur, Systèmes d'Information** *(Double diplôme)* — ENSEA, Cergy, France & ENSIT, Tunis, Tunisie (2022–2026)
+- **Diplôme d'ingénieur, Systèmes d'Information** *(Double diplôme)* — ENSEA, Cergy, France (2024–2026)
+- **Diplôme d'ingénieur, Génie Logiciel & Systèmes d'Information** — ENSIT, Tunis, Tunisie (2022–2024)
+- **Cycle préparatoire** — Tunisie (2020–2022)
 
 ### 💼 Professional Experience
 
@@ -97,7 +99,7 @@ Ingénieure en systèmes d'information, diplômée d'un double diplôme ENSEA–
 - **Scrum.org** — Open Assessment
 - **AWS Academy** — Cloud Foundations
 - **AWS Academy** — Machine Learning Foundations
-- **Cisco** — CCNA 1,2
+- **Cisco** — CCNA 2
 
 ### 🚀 Featured Projects
 
